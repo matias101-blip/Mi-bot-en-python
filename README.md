@@ -4,6 +4,6 @@
 <ul>
   <li>1.-usar git clone o bajar la carpeta del proyecto</li>
   <li>2.-abrir una terminal o el cmd y usar cd para navegar ala carpeta del proyecto :v</li>
-  <li>3.-Ejecute el comando python pru1.py</li>
+  <li>3.-Ejecute el comando python prue1.py</li>
  </ul>
- <p>Bueno eso es todo xD ya que lo hive en dos horas porque tuve erros xD bueno gracias por echarle un hojo :v</p>
+ <p>Bueno eso es todo xD ya que lo hice en dos horas porque tuve erros xD bueno gracias por echarle un hojo :v</p>
